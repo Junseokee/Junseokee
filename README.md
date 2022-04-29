@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+About me
+  - https://www.notion.so/91532ea47eda48499032a2da1227695e
+ 
+Blog
+  - https://weq155.tistory.com/
+  
+  
+  
+  
+  
 <!--
 **Junseokee/Junseokee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
