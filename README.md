@@ -6,7 +6,9 @@ About me
 Blog
   - https://weq155.tistory.com/
   
-  
+E-mail
+  - weq155@gmail.com
+
 ![Metrics](/github-metrics.svg) 
   
   <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
