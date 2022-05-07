@@ -9,4 +9,8 @@ Blog
 E-mail
   - weq155@gmail.com
 
+Skill
+  - R
+  - Python
+
 ![Metrics](/github-metrics.svg)
