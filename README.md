@@ -1,6 +1,6 @@
 # Junseokee - DevOps Engineer
 
-Kubernetes Observability Opensource Kubegpt 개발
+Kubernetes Observability Open Source Kubegpt
   - https://github.com/Junseokee/kubegpt
 
 
