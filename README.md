@@ -14,5 +14,5 @@ Kubernetes Observability Open Source Kubegpt
 ![Metrics](/github-metrics.svg)
 
 
-# edu-project
+#### edu-project
 https://github.com/BiBot-org
